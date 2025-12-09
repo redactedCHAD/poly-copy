@@ -1,0 +1,8 @@
+web3
+py-clob-client
+python-dotenv
+colorama
+requests
+streamlit
+hypothesis
+pytest

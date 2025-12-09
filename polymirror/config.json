@@ -1,0 +1,6 @@
+{
+  "is_active": true,
+  "max_cap_usdc": 100.0,
+  "copy_ratio": 0.1,
+  "target_wallet": "0xDDD8C93165245b2764dfe8bE340992e99D7B2C07 "
+}
